@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		FB650AE2230C633700F77E4A /* DataStruct_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DataStruct_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB650AE5230C633700F77E4A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		FB650AF0230C688000F77E4A /* LRU.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LRU.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		FB650AD9230C633700F77E4A = {
 			isa = PBXGroup;
 			children = (
+				FB650AF0230C688000F77E4A /* LRU.playground */,
 				FB650AE4230C633700F77E4A /* DataStruct_Swift */,
 				FB650AE3230C633700F77E4A /* Products */,
 			);
